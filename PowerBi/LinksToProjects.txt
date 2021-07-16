@@ -4,6 +4,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZmJiZjVlYTctOTIzMi00N2NjLThmYjEtOWY2NTViN
 https://app.powerbi.com/view?r=eyJrIjoiMGFkMWY1MWQtNzg0Zi00ZWVhLWEzMzEtMDc5OTVlNDVhMmRlIiwidCI6IjY3NGQzZTZjLTQ1ZjctNDJlOS05MzhjLWZjZDAxZTNmZjU3YyJ9
 
 Some different formats for a few ForEx based projects that were embedded into HTML pages for websites:
+To view in your browser, copy and paste the link within the src="" marks
 HKD:
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiYzQ0MDE4ZGItMWZmYy00NTNhLThhYzEtY2FmYmIwZDU5MTRhIiwidCI6IjY3NGQzZTZjLTQ1ZjctNDJlOS05MzhjLWZjZDAxZTNmZjU3YyJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 RUB:
