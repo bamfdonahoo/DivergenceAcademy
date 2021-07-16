@@ -1,0 +1,25 @@
+Rather than upload every single *.pbix, these are the hosted links to my most recent PowerBi projects:
+
+https://app.powerbi.com/view?r=eyJrIjoiZmJiZjVlYTctOTIzMi00N2NjLThmYjEtOWY2NTViNmE3YjdhIiwidCI6IjY3NGQzZTZjLTQ1ZjctNDJlOS05MzhjLWZjZDAxZTNmZjU3YyJ9&pageName=ReportSection
+https://app.powerbi.com/view?r=eyJrIjoiMGFkMWY1MWQtNzg0Zi00ZWVhLWEzMzEtMDc5OTVlNDVhMmRlIiwidCI6IjY3NGQzZTZjLTQ1ZjctNDJlOS05MzhjLWZjZDAxZTNmZjU3YyJ9
+
+Some different formats for a few ForEx based projects that were embedded into HTML pages for websites:
+HKD:
+<iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiYzQ0MDE4ZGItMWZmYy00NTNhLThhYzEtY2FmYmIwZDU5MTRhIiwidCI6IjY3NGQzZTZjLTQ1ZjctNDJlOS05MzhjLWZjZDAxZTNmZjU3YyJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+RUB:
+<iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiYzkxNGNmZjctMmRhMy00Y2NhLWIzMmEtMTAyOTEwN2YwY2RjIiwidCI6IjY3NGQzZTZjLTQ1ZjctNDJlOS05MzhjLWZjZDAxZTNmZjU3YyJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+EURO:
+<iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNTg5NmUyODAtZjJkNS00NzI3LWI4MmMtNGNhNDk2YzlmZDlhIiwidCI6IjY3NGQzZTZjLTQ1ZjctNDJlOS05MzhjLWZjZDAxZTNmZjU3YyJ9" frameborder="0" allowFullScreen="true"></iframe>
+gold:
+<iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMDVjNWEzNDYtYTBmMC00ZTE4LWExNjUtNDY1ODQ5MDgyMGIxIiwidCI6IjY3NGQzZTZjLTQ1ZjctNDJlOS05MzhjLWZjZDAxZTNmZjU3YyJ9" frameborder="0" allowFullScreen="true"></iframe>
+oil:
+<iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNzQyYTIxMDMtNDY1Ni00NDYwLTgxYzEtZWMyODZiYTVkZTU2IiwidCI6IjY3NGQzZTZjLTQ1ZjctNDJlOS05MzhjLWZjZDAxZTNmZjU3YyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+Some lab report projects that were done during the course:
+https://app.powerbi.com/links/mEEq7ZgVia?ctid=674d3e6c-45f7-42e9-938c-fcd01e3ff57c&pbi_source=linkShare
+https://app.powerbi.com/links/4jAb6WRdeN?ctid=674d3e6c-45f7-42e9-938c-fcd01e3ff57c&pbi_source=linkShare
+https://app.powerbi.com/links/ek5Af8QxJf?ctid=674d3e6c-45f7-42e9-938c-fcd01e3ff57c&pbi_source=linkShare
+
+Tootips Exercise:
+https://app.powerbi.com/links/HjGx8zSgCB?ctid=674d3e6c-45f7-42e9-938c-fcd01e3ff57c&pbi_source=linkShare
+
